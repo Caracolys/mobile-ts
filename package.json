@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mobile-ts",
+=======
+  "name": "mobile-basics",
+>>>>>>> e630d0aa794c36b6ccd9229c363f621c11c3b918
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,6 +15,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "prompt-sync": "^4.2.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2"
@@ -19,3 +24,9 @@
     "@types/prompt-sync": "^4.2.3"
   }
 }
+=======
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
+>>>>>>> e630d0aa794c36b6ccd9229c363f621c11c3b918

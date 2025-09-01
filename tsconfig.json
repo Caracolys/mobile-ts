@@ -35,10 +35,18 @@
     // Recommended Options
     "strict": true,
     "jsx": "react-jsx",
+<<<<<<< HEAD
     "verbatimModuleSyntax": false,
+=======
+    "verbatimModuleSyntax": true,
+>>>>>>> e630d0aa794c36b6ccd9229c363f621c11c3b918
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
     "moduleDetection": "force",
     "skipLibCheck": true,
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e630d0aa794c36b6ccd9229c363f621c11c3b918
